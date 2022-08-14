@@ -1,4 +1,4 @@
 - 👋 Greetings, I am William (@wj-harvey)
-- 👀 I am interested in enterprise cloud cyber security, networking, and computer science
+- 👀 I am interested in enterprise cloud cyber security & networks
 - 🌱 I am currently learning CS: Networking
 - 📫 How to reach me: william.harvey2000@gmail.com
